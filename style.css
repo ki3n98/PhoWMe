@@ -1,12 +1,25 @@
 
 .header {
-    font-family: 'MonospaceTypewriter', sans-serif;
-    padding: 60px;
+    padding: 0px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
     text-align: center;
     background: #f98e8e;
-    color: white;
-    font-size: 30px;
+    align-items: center;
+    align-content: center;
   }
+
+  .PhoWMe {
+    order: 1;
+    padding-left: 50px;
+    font-family: 'MonospaceTypewriter', sans-serif;
+    background: #f98e8e;
+    color: white;
+    font-size: 24px;
+  }
+
 
   @font-face {
     font-family: 'MonospaceTypewriter';
