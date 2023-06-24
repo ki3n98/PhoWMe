@@ -1,7 +1,10 @@
 body{
-margin: 0px;
-border: 0px;
-padding: 0px;
+  margin: 0px;
+  border: 0px;
+  padding: 0px;
+}
+*{
+  background: #fefae0;
 }
 
 header {
@@ -10,7 +13,7 @@ header {
     flex-wrap: nowrap;
     justify-content: flex-start;
     text-align: center;
-    background: #f98e8e;
+
     align-items: center;
     align-content: center;
   }
