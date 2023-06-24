@@ -1,5 +1,14 @@
 
-header {
+.header {
+    font-family: 'MonospaceTypewriter', sans-serif;
+    padding: 60px;
+    text-align: center;
+    background: #f98e8e;
+    color: white;
+    font-size: 30px;
+  }
 
-}
-
+  @font-face {
+    font-family: 'MonospaceTypewriter';
+    src: url('MonospaceTypewriter.ttf');
+  }
