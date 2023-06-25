@@ -11,7 +11,7 @@
     display: flex;
     justify-content: center;
     height: 75vh;
-    padding: 10px;
+    padding: 50px;
 }
 
 .about-us {
@@ -20,6 +20,7 @@
     flex-direction: column;
     align-items: center;
     max-width: 1000px;
+    font-size: large;
 
 }
 .about-us-logo {
