@@ -9,21 +9,20 @@ body{
 
 header {
     display: flex;
-    flex-direction: row;
-    flex-wrap: nowrap;
-    justify-content: flex-start;
+    padding-top: 0.4%;
+    padding-left: 1%;
+    justify-content: left;
     text-align: center;
-
-    align-items: center;
-    align-content: center;
   }
 
   .PhoWMeLogo {
     order: 1;
-    padding: 5px;
-    padding-left: 50px;
   }
 
+  .Menu{
+    order : 2;
+    
+  }
 
   @font-face {
     font-family: 'MonospaceTypewriter';
