@@ -14,20 +14,19 @@ body{
 }
 
 
-header {
+.header {
   display: flex;
-  padding-top: 0.4%;
-  padding-left: 1%;
-  justify-content: left;
-
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0 3% 0 3%;
+}
+.PhoWMeLogo {
+  width: fit-content;
 }
 
+
 .nav-bar {
-  display: flex;
-  justify-content: flex-end;
-  align-items: flex-end; 
-  width: 100%;
-  padding-right: 50px;
+  align-self: flex-end;
 }
 
 li {
