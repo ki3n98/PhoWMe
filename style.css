@@ -1,7 +1,4 @@
-@font-face {
-  font-family: 'MonospaceTypewriter';
-  src: url('MonospaceTypewriter.ttf');
-}
+
 
 *{
   background: #fefae0;
@@ -17,8 +14,8 @@ body{
 .header {
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
-  padding: 20px;
+  justify-content: space-around;
+  padding: 10px;
 }
 .PhoWMeLogo {
   width: fit-content;
@@ -26,7 +23,17 @@ body{
 
 
 .nav-bar {
+  display: flex;
   align-self: flex-end;
+  gap: 50px; 
+}
+.nav-bar > a {
+  font-family: 'Montserrat', sans-serif;
+
+
+  text-decoration: none;
+  font-size: xx-large;
+  color: black; 
 }
 
 li {
