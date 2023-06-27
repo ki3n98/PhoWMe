@@ -1,5 +1,4 @@
 
-
 *{
   background: #fefae0;
 }
@@ -10,15 +9,18 @@ body{
   padding: 0px;
 }
 
-
 .header {
   display: flex;
+  height: 5vh;
   flex-direction: row;
   justify-content: space-around;
   padding: 10px;
 }
 .PhoWMeLogo {
+  display:flex; 
   width: fit-content;
+  align-items: flex-end;
+
 }
 
 
@@ -32,7 +34,7 @@ body{
 
 
   text-decoration: none;
-  font-size: xx-large;
+  font-size: x-large;
   color: black; 
 }
 
