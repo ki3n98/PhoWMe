@@ -5,7 +5,7 @@
   }
   
   .cover img {
-    height: 95vh; 
+    height: 100vh; 
   }
   
   .container {
@@ -13,6 +13,13 @@
     justify-content: center;
     height: 75vh;
     padding: 50px;
+  }
+
+  .slides {
+    display:none; 
+  }
+  .show {
+    display:block; 
   }
   
   .about-us {
