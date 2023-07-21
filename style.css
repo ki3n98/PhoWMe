@@ -75,17 +75,8 @@ li {
   align-items: center;
   max-width: 1000px;
   font-size: large;
-
-}
-.about-us-logo {
-  background-color: red;
-  width: 1;
-
 }
 
-#pho-w-me {
-  font-size: xx-large;
-}
 
 .invisible {
   visibility: hidden;
