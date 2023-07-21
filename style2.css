@@ -16,7 +16,7 @@
   }
 
   .slides {
-    display:none; 
+    display:block; 
   }
   .show {
     display:block; 
