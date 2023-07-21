@@ -9,31 +9,33 @@ body{
   padding: 0px;
 }
 
-header {
+.site-header {
   display: flex;
-  height: 5vh;
-  flex-direction: row;
-  justify-content: space-around;
+  height: 65px;
+  justify-content: space-between;
   align-items: center;
-  padding: 10px;
-  /* background-color: red; */
-}
-.PhoWMeLogo {
-  display:flex; 
-  width: fit-content;
-  align-items: flex-end;
-  gap: 10px;
+  padding: 20px;
 }
 
-.PhoWMeLogo img {
+#logo-stack{
+  display: none;
+}
+
+.PhoWMeLogo>img {
+  height: 65px;
+}
+.PhoWMeLogo {
+  padding-left: 2%;
+}
+
+#call>img{
   height: 50px;
 }
 
 .nav-bar {
   display: flex;
-  align-self: flex-end;
-  /* background-color: blue; */
   gap: 50px; 
+  align-items: center;
 }
 
 li {
@@ -49,10 +51,60 @@ li {
   color: black; 
 }
 
+.cover {
+  width: 100%;
+  height: 95vh;
+  opacity: 0;
+}
+
+.cover img {
+  height: 95vh; 
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  height: 75vh;
+  padding: 50px;
+}
+
+.about-us {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 1000px;
+  font-size: large;
+}
 
 
+.invisible {
+  visibility: hidden;
+}
 
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 1000px) {
+  .site-header {
+    display: flex;
+    height: 5vh;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+  }
 
+  #logo-title{
+    display: none;
+  }
+  #logo{
+    display:none;
+  }
 
+  #logo-stack{
+    display: inline;
+    height: 55px;
+  }
 
-
+  .PhoWMeLogo {
+    padding-left: 2.5%;
+  }
+}
