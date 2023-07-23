@@ -1,3 +1,5 @@
+$("#cover-photo").animate({opacity: '1'}, "slow"); 
+
 /*----------Carosel----------*/
 var currentSlide = 1; 
 
