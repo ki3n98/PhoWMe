@@ -118,7 +118,7 @@ button{
   margin: 5px auto;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
-  background-color: black;
+  background-color: #3a474d;
 }
 
 @media only screen and (max-width: 880px) {
