@@ -9,12 +9,18 @@ body{
   padding: 0px;
 }
 
+.sticky{
+  position: fixed;
+  width: 100%;
+}
+
 .site-header {
   display: flex;
   height: 5vh;
   justify-content: space-between;
   align-items: center;
   padding: 20px;
+  right: 0px;
 }
 
 #logo-stack{
@@ -28,7 +34,7 @@ body{
   height: 50px
 }
 .PhoWMeLogo {
-  padding-left: 2%;
+  padding-left: 4%;
 }
 
 #call>img{
@@ -38,7 +44,8 @@ body{
 .nav-bar {
   display: flex;
   gap: 50px; 
-  align-items: center;
+  align-items: right;
+  overflow: hidden;
 }
 
 li {
@@ -114,7 +121,7 @@ button{
   background-color: black;
 }
 
-@media only screen and (max-width: 850px) {
+@media only screen and (max-width: 880px) {
   .site-header {
     display: flex;
     height: 3vh;
@@ -131,7 +138,7 @@ button{
   }
 
   .PhoWMeLogo {
-    padding-left: 2.5%;
+    padding-left: 5%;
   }
 
   .hamburger{
@@ -158,7 +165,7 @@ button{
     flex-direction: column;
     background-color: #fefae0;
     text-align: center;
-    transition: 0.3s;
+    transition: 0.5s;
   }
 
   .nav-item{
@@ -166,6 +173,7 @@ button{
   }
 
   .nav-bar.active{
+    width: 40%;
     right: 0;
     margin: 0;
   }
