@@ -50,25 +50,27 @@
             </div>
     </header>
     <!--NAV MENU END-->
-    <section>
-        <div class="cover photo carousel" id="cover-photo">
-            <div class="slides fade">
-                <img src="https://picsum.photos/2000/500" style="width:100%">
-                <div class="text">Caption Text</div>
-            </div>
 
-            <div class="slides fade">
-                <img src="https://picsum.photos/2001/500" style="width:100%">
-                <div class="text">Caption Text</div>
-            </div>
-
-            <div class="slides fade">
-                <img src="https://picsum.photos/2002/500" style="width:100%">
-                <div class="text">Caption Text</div>
-            </div>
-
+    <!--CAROUSEL-->
+    <div class="cover photo carousel" id="carousel-container">
+        <div class="slides">
+            <img src="https://picsum.photos/2000/500" style="width:100%">
         </div>
-    </section>
+        <div class="slides">
+            <img src="https://picsum.photos/2001/500" style="width:100%">
+        </div>
+        <div class="slides">
+            <img src="https://picsum.photos/2002/500" style="width:100%">
+        </div>
+
+        <button id="prev-btn">Prev</button>
+        <button id="next-btn">Next</button>
+
+
+    </div>
+    <!--CAROUSEL END-->
+
+
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.0/jquery.min.js"></script>
     <script src="/js/index.js" charset="UTF-8"></script>
     <script src="/js/index2.js" charset="UTF-8"></script>
