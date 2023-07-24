@@ -52,19 +52,30 @@
     <!--NAV MENU END-->
 
     <!--CAROUSEL-->
-    <div class="cover photo carousel" id="carousel-container">
-        <div class="slides">
-            <img src="https://picsum.photos/2000/500" style="width:100%">
-        </div>
-        <div class="slides">
-            <img src="https://picsum.photos/2001/500" style="width:100%">
-        </div>
-        <div class="slides">
-            <img src="https://picsum.photos/2002/500" style="width:100%">
-        </div>
+    <div class="carousel" id="carousel-container" data-carousel>
 
-        <button id="prev-btn">Prev</button>
-        <button id="next-btn">Next</button>
+        <button class= "carousel-button prev" data-carousel-button="prev">
+            <img src="./assets/images/Icons/arrow-prev-svgrepo-com.svg" width="50px">
+        </button>
+        <button class= "carousel-button next" data-carousel-button="next">
+            <img src="./assets/images/Icons/arrow-next-svgrepo-com.svg" width="50px">
+        </button>
+
+        <ul class="carousel-slides" data-slides>
+            <li class="slide" data-active>
+                <img src="https://picsum.photos/2000/1000" alt="">
+            </li>
+            <li class="slide">
+                <img src="https://picsum.photos/2001/1000" id="" alt="">
+            </li>
+            <li class="slide">
+                <img src="https://picsum.photos/2002/1000" id="" alt="">
+            </li>
+
+        </ul>
+
+
+
 
 
     </div>
