@@ -47,6 +47,7 @@ body{
   gap: 50px; 
   align-items: right;
   overflow: hidden;
+  padding-top:50px;
 }
 
 li {
