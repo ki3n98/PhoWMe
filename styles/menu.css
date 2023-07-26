@@ -1,0 +1,19 @@
+body {
+    background-color: #fefae0;
+}
+
+#menu-container {
+    padding-top: 9vh;
+}
+
+.menu{
+    width: 90%;
+    height: 500px;
+    margin: auto;
+    margin-bottom: 5%;
+    border: 10px solid #c5372f; 
+    display: grid;
+    
+
+}
+
