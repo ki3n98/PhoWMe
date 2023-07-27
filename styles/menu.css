@@ -2,17 +2,10 @@ body {
     background-color: #fefae0;
 }
 
-#menu-container {
-    padding-top: 9vh;
-}
-
-.menu{
-    width: 90%;
-    margin: auto;
-    margin-bottom: 5%;
-    border: 10px solid #c5372f; 
-    display: grid;
-    
+.menu {
+    padding-top: 100px;
+    display: flex;
+    justify-content: center;
 
 }
 

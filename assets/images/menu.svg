@@ -1,0 +1,989 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="618mm"
+   viewBox="0 0 210 618"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="menu.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.2938725"
+     inkscape:cx="350.88465"
+     inkscape:cy="-0.38643684"
+     inkscape:window-width="2089"
+     inkscape:window-height="1230"
+     inkscape:window-x="59"
+     inkscape:window-y="122"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="721.86401"
+       y="983.86823"
+       width="677.03735"
+       height="401.12146"
+       id="rect10095" />
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect9396"
+       is_visible="true"
+       lpeversion="1"
+       offset_points="0.81057244,3.0673424"
+       not_jump="true"
+       sort_points="true"
+       interpolator_type="CentripetalCatmullRom"
+       interpolator_beta="0.75"
+       start_linecap_type="round"
+       linejoin_type="spiro"
+       miter_limit="4"
+       scale_width="1"
+       end_linecap_type="round" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect9394"
+       is_visible="true"
+       lpeversion="1"
+       steps="1"
+       threshold="0.0047745358"
+       smooth_angles="0"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false"
+       step="1" />
+  </defs>
+  <g
+     inkscape:label="border"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     transform="matrix(1.0010677,0,0,0.50473031,-0.11436696,3.0806517)">
+    <rect
+       style="fill:none;stroke:#a69384;stroke-width:1;stroke-opacity:1"
+       id="rect234"
+       width="191.21863"
+       height="268.0892"
+       x="11.504778"
+       y="16.475538"
+       ry="0" />
+    <rect
+       style="fill:#fefae0;fill-opacity:1;stroke:none;stroke-width:1.01622;stroke-opacity:1"
+       id="rect6420"
+       width="127.82278"
+       height="19.665045"
+       x="50.319378"
+       y="6.0730286" />
+    <path
+       style="fill:#a69384;fill-opacity:1;stroke:none;stroke-width:1.40682;stroke-opacity:1"
+       d="M 7.0594721,750.30414 H 62.212749"
+       id="path9400" />
+    <rect
+       style="fill:#a69384;fill-opacity:1;stroke:none;stroke-width:1.37579;stroke-opacity:1"
+       id="rect9648"
+       width="47.390965"
+       height="2.0257263"
+       x="16.098482"
+       y="749.59503" />
+    <rect
+       style="display:inline;fill:#a69384;fill-opacity:1;stroke:none;stroke-width:1.37579;stroke-opacity:1"
+       id="rect9648-0"
+       width="46.58569"
+       height="1.9124146"
+       x="146.75119"
+       y="750.38379" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Pho"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:178.18;display:inline;fill:#5e483b;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
+       x="23.713726"
+       y="54.078869"
+       id="text8718"><tspan
+         x="23.713726"
+         y="54.078869"
+         id="tspan2362"><tspan
+           style="font-size:7.05556px"
+           id="tspan2360">Special Combination Pho
+</tspan></tspan><tspan
+         x="23.713726"
+         y="71.717746"
+         id="tspan2366"><tspan
+           style="font-size:7.05556px"
+           id="tspan2364">Rare Steak Pho
+</tspan></tspan><tspan
+         x="23.713726"
+         y="89.356624"
+         id="tspan2370"><tspan
+           style="font-size:7.05556px"
+           id="tspan2368">Rare Steak &amp; Well Done Flank Pho
+</tspan></tspan><tspan
+         x="23.713726"
+         y="106.9955"
+         id="tspan2374"><tspan
+           style="font-size:7.05556px"
+           id="tspan2372">Beef Ball Pho
+</tspan></tspan><tspan
+         x="23.713726"
+         y="124.63438"
+         id="tspan2378"><tspan
+           style="font-size:7.05556px"
+           id="tspan2376">Shrimp Pho
+</tspan></tspan><tspan
+         x="23.713726"
+         y="142.27325"
+         id="tspan2382"><tspan
+           style="font-size:7.05556px"
+           id="tspan2380">Plain Pho
+</tspan></tspan></text>
+    <g
+       inkscape:groupmode="layer"
+       id="layer4-6"
+       inkscape:label="Rare Steak Pho"
+       transform="translate(-1.635453,14.939249)"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#5e483b;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
+         x="54.846748"
+         y="43.188309"
+         id="text8838"><tspan
+           sodipodi:role="line"
+           id="tspan8836"
+           style="stroke-width:1"
+           x="54.846748"
+           y="43.188309" /></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer4-0"
+       inkscape:label="food-items"
+       transform="translate(1.8348489,28.242073)"
+       style="display:inline">
+      <g
+         inkscape:groupmode="layer"
+         id="layer4-05"
+         inkscape:label="food-items"
+         transform="translate(-3.18111,13.881207)"
+         style="display:inline" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer4-01"
+         inkscape:label="food-items"
+         transform="translate(4.6738073e-7,33.546251)"
+         style="display:inline" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer4-62"
+         inkscape:label="Speical Combination pho"
+         transform="translate(0.57838388,48.584225)"
+         style="display:inline" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g8954"
+     inkscape:label="Noodle Soup"
+     style="display:inline"
+     transform="translate(0.20448948,112.26473)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:178.18;display:inline;fill:#5e483b;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
+       x="23.713726"
+       y="54.078869"
+       id="text8938"
+       transform="translate(-2.2493844,232.91354)"><tspan
+         x="23.713726"
+         y="54.078869"
+         id="tspan2386"><tspan
+           style="font-size:7.05556px"
+           id="tspan2384">Nam Vang Noodle Soup          
+</tspan></tspan><tspan
+         x="23.713726"
+         y="71.717746"
+         id="tspan2392"><tspan
+           style="font-size:7.05556px"
+           id="tspan2388">Wonton Noodle Soup</tspan><tspan
+           style="font-size:7.05556px"
+           id="tspan2390">       
+</tspan></tspan><tspan
+         x="23.713726"
+         y="89.356624"
+         id="tspan2396"><tspan
+           style="font-size:7.05556px"
+           id="tspan2394">Special Dry Noodle Soup 
+</tspan></tspan><tspan
+         x="23.713726"
+         y="106.9955"
+         id="tspan2400"><tspan
+           style="font-size:7.05556px"
+           id="tspan2398">
+</tspan></tspan></text>
+    <g
+       inkscape:groupmode="layer"
+       id="g8944"
+       inkscape:label="Rare Steak Pho"
+       transform="translate(-1.635453,14.939249)"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#5e483b;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
+         x="54.846748"
+         y="43.188309"
+         id="text8942"><tspan
+           sodipodi:role="line"
+           id="tspan8940"
+           style="stroke-width:1"
+           x="54.846748"
+           y="43.188309" /></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g8952"
+       inkscape:label="food-items"
+       transform="translate(1.8348489,28.242073)"
+       style="display:inline">
+      <g
+         inkscape:groupmode="layer"
+         id="g8946"
+         inkscape:label="food-items"
+         transform="translate(-3.18111,13.881207)"
+         style="display:inline" />
+      <g
+         inkscape:groupmode="layer"
+         id="g8948"
+         inkscape:label="food-items"
+         transform="translate(4.6738073e-7,33.546251)"
+         style="display:inline" />
+      <g
+         inkscape:groupmode="layer"
+         id="g8950"
+         inkscape:label="Speical Combination pho"
+         transform="translate(0.57838388,48.584225)"
+         style="display:inline" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g8977"
+     inkscape:label="Price"
+     style="display:inline"
+     transform="translate(21.471397,111.44677)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:178.18;display:inline;fill:#5e483b;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
+       x="23.713726"
+       y="54.078869"
+       id="text8961"
+       transform="translate(118.39943,233.32252)"><tspan
+         x="23.713726"
+         y="54.078869"
+         id="tspan2404"><tspan
+           style="font-size:7.05556px"
+           id="tspan2402">15.99
+</tspan></tspan><tspan
+         x="23.713726"
+         y="71.717746"
+         id="tspan2408"><tspan
+           style="font-size:7.05556px"
+           id="tspan2406">13.99
+</tspan></tspan><tspan
+         x="23.713726"
+         y="89.356624"
+         id="tspan2412"><tspan
+           style="font-size:7.05556px"
+           id="tspan2410">13.99
+</tspan></tspan><tspan
+         x="23.713726"
+         y="106.9955"
+         id="tspan2416"><tspan
+           style="font-size:7.05556px"
+           id="tspan2414">
+</tspan></tspan></text>
+    <g
+       inkscape:groupmode="layer"
+       id="g8967"
+       inkscape:label="Rare Steak Pho"
+       transform="translate(-1.635453,14.939249)"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#5e483b;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
+         x="54.846748"
+         y="43.188309"
+         id="text8965"><tspan
+           sodipodi:role="line"
+           id="tspan8963"
+           style="stroke-width:1"
+           x="54.846748"
+           y="43.188309" /></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g8975"
+       inkscape:label="food-items"
+       transform="translate(1.8348489,28.242073)"
+       style="display:inline">
+      <g
+         inkscape:groupmode="layer"
+         id="g8969"
+         inkscape:label="food-items"
+         transform="translate(-3.18111,13.881207)"
+         style="display:inline" />
+      <g
+         inkscape:groupmode="layer"
+         id="g8971"
+         inkscape:label="food-items"
+         transform="translate(4.6738073e-7,33.546251)"
+         style="display:inline" />
+      <g
+         inkscape:groupmode="layer"
+         id="g8973"
+         inkscape:label="Speical Combination pho"
+         transform="translate(0.57838388,48.584225)"
+         style="display:inline" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g8977-1"
+       inkscape:label="Price"
+       style="display:inline"
+       transform="translate(0.75663599,-117.23423)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:178.18;display:inline;fill:#5e483b;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
+         x="23.713726"
+         y="54.078869"
+         id="text8961-6"
+         transform="translate(118.19493,3.4763215)"><tspan
+           x="23.713726"
+           y="54.078869"
+           id="tspan2420"><tspan
+             style="font-size:7.05556px"
+             id="tspan2418">15.99
+</tspan></tspan><tspan
+           x="23.713726"
+           y="71.717746"
+           id="tspan2424"><tspan
+             style="font-size:7.05556px"
+             id="tspan2422">13.99
+</tspan></tspan><tspan
+           x="23.713726"
+           y="89.356624"
+           id="tspan2428"><tspan
+             style="font-size:7.05556px"
+             id="tspan2426">13.99
+</tspan></tspan><tspan
+           x="23.713726"
+           y="106.9955"
+           id="tspan2432"><tspan
+             style="font-size:7.05556px"
+             id="tspan2430">13.99
+</tspan></tspan><tspan
+           x="23.713726"
+           y="124.63438"
+           id="tspan2436"><tspan
+             style="font-size:7.05556px"
+             id="tspan2434">13.99
+</tspan></tspan><tspan
+           x="23.713726"
+           y="142.27325"
+           id="tspan2440"><tspan
+             style="font-size:7.05556px"
+             id="tspan2438">  7.00
+</tspan></tspan><tspan
+           x="23.713726"
+           y="159.91212"
+           id="tspan2444"><tspan
+             style="font-size:7.05556px"
+             id="tspan2442">
+</tspan></tspan></text>
+      <g
+         inkscape:groupmode="layer"
+         id="g8967-6"
+         inkscape:label="Rare Steak Pho"
+         transform="translate(-1.635453,14.939249)"
+         style="display:inline">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#5e483b;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
+           x="54.846748"
+           y="43.188309"
+           id="text8965-0"><tspan
+             sodipodi:role="line"
+             id="tspan8963-5"
+             style="stroke-width:1"
+             x="54.846748"
+             y="43.188309" /></text>
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="g8975-2"
+         inkscape:label="food-items"
+         transform="translate(1.8348489,28.242073)"
+         style="display:inline">
+        <g
+           inkscape:groupmode="layer"
+           id="g8969-3"
+           inkscape:label="food-items"
+           transform="translate(-3.18111,13.881207)"
+           style="display:inline" />
+        <g
+           inkscape:groupmode="layer"
+           id="g8971-4"
+           inkscape:label="food-items"
+           transform="translate(4.6738073e-7,33.546251)"
+           style="display:inline" />
+        <g
+           inkscape:groupmode="layer"
+           id="g8973-9"
+           inkscape:label="Speical Combination pho"
+           transform="translate(0.57838388,48.584225)"
+           style="display:inline" />
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Header">
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:21.1667px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';fill:#fffefe;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
+       x="95.433304"
+       y="40.486855"
+       id="text7309"><tspan
+         sodipodi:role="line"
+         id="tspan7307"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#5e483b;fill-opacity:1;stroke-width:1"
+         x="95.433304"
+         y="40.486855">Pho</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#5e483b;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
+       x="21.400196"
+       y="55.814018"
+       id="text8141"><tspan
+         sodipodi:role="line"
+         id="tspan8139"
+         style="stroke-width:1"
+         x="21.400196"
+         y="55.814018" /></text>
+    <g
+       inkscape:groupmode="layer"
+       id="layer3-0"
+       inkscape:label="Header"
+       transform="translate(-1.401434,117.86433)">
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:21.1667px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';fill:#fffefe;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
+         x="68.747414"
+         y="268.08368"
+         id="text7309-3"><tspan
+           sodipodi:role="line"
+           id="tspan7307-2"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#5e483b;fill-opacity:1;stroke-width:1"
+           x="68.747414"
+           y="268.08368">NOODLE SOUP</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#5e483b;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
+         x="21.400196"
+         y="55.814018"
+         id="text8141-4"><tspan
+           sodipodi:role="line"
+           id="tspan8139-6"
+           style="stroke-width:1"
+           x="21.400196"
+           y="55.814018" /></text>
+      <path
+         style="display:inline;fill:#a69384;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
+         d="M 8.5676296,330.26832 H 63.779794"
+         id="path9400-3" />
+      <rect
+         style="display:inline;fill:#a69384;fill-opacity:1;stroke:none;stroke-width:1.0684;stroke-opacity:1"
+         id="rect9648-1"
+         width="56.623402"
+         height="1.0224454"
+         x="18.638735"
+         y="331.95535" />
+      <rect
+         style="display:inline;fill:#a69384;fill-opacity:1;stroke:none;stroke-width:1.04038;stroke-opacity:1"
+         id="rect9648-0-2"
+         width="52.780754"
+         height="0.96525359"
+         x="143.28561"
+         y="332.35345" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:178.18;display:inline;fill:#5e483b;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
+         x="23.713726"
+         y="54.078869"
+         id="text8938-4"
+         transform="translate(0.59253815,295.70959)"><tspan
+           x="23.713726"
+           y="54.078869"
+           id="tspan2448"><tspan
+             style="font-size:7.05556px"
+             id="tspan2446">Chicken Friend Rice with Egg         
+</tspan></tspan><tspan
+           x="23.713726"
+           y="71.717746"
+           id="tspan2452"><tspan
+             style="font-size:7.05556px"
+             id="tspan2450">Yang Chow Fried Rice     
+</tspan></tspan><tspan
+           x="23.713726"
+           y="89.356624"
+           id="tspan2456"><tspan
+             style="font-size:7.05556px"
+             id="tspan2454">BBQ pork and Shrimp Fried Rice 
+</tspan></tspan><tspan
+           x="23.713726"
+           y="106.9955"
+           id="tspan2460"><tspan
+             style="font-size:7.05556px"
+             id="tspan2458">
+</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:178.18;display:inline;fill:#5e483b;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
+         x="23.713726"
+         y="54.078869"
+         id="text8961-2"
+         transform="translate(142.50826,295.30061)"><tspan
+           x="23.713726"
+           y="54.078869"
+           id="tspan2464"><tspan
+             style="font-size:7.05556px"
+             id="tspan2462">12.99
+</tspan></tspan><tspan
+           x="23.713726"
+           y="71.717746"
+           id="tspan2468"><tspan
+             style="font-size:7.05556px"
+             id="tspan2466">12.99
+</tspan></tspan><tspan
+           x="23.713726"
+           y="89.356624"
+           id="tspan2472"><tspan
+             style="font-size:7.05556px"
+             id="tspan2470">14.99
+</tspan></tspan><tspan
+           x="23.713726"
+           y="106.9955"
+           id="tspan2476"><tspan
+             style="font-size:7.05556px"
+             id="tspan2474">
+</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:21.1667px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';fill:#fffefe;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
+         x="77.958504"
+         y="336.07034"
+         id="text7309-3-2"><tspan
+           sodipodi:role="line"
+           id="tspan7307-2-9"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#5e483b;fill-opacity:1;stroke-width:1"
+           x="77.958504"
+           y="336.07034">FRIED RICE</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,1.401434,-117.86433)"
+         id="text10093"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect10095);fill:#a69384;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-opacity:1" />
+      <rect
+         style="display:inline;fill:#a69384;fill-opacity:1;stroke:none;stroke-width:0.977943;stroke-opacity:1"
+         id="rect9648-2-3"
+         width="47.441563"
+         height="1.0224454"
+         x="17.38623"
+         y="142.8589" />
+      <rect
+         style="display:inline;fill:#a69384;fill-opacity:1;stroke:none;stroke-width:0.977943;stroke-opacity:1"
+         id="rect9648-0-0-0"
+         width="46.635429"
+         height="0.96525359"
+         x="148.17847"
+         y="143.25702" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:178.18;display:inline;fill:#5e483b;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
+         x="23.713726"
+         y="54.078869"
+         id="text8938-9-2"
+         transform="translate(-0.65996682,106.61316)"><tspan
+           x="23.713726"
+           y="54.078869"
+           id="tspan2480"><tspan
+             style="font-size:7.05556px"
+             id="tspan2478">Charbroiled Pork and Eggrolls
+</tspan></tspan><tspan
+           x="23.713726"
+           y="71.717746"
+           id="tspan2484"><tspan
+             style="font-size:7.05556px"
+             id="tspan2482">Charbroiled Chicken and Eggrolls      
+</tspan></tspan><tspan
+           x="23.713726"
+           y="89.356624"
+           id="tspan2488"><tspan
+             style="font-size:7.05556px"
+             id="tspan2486">Veggie Vermicelli with Friend Tofu
+</tspan></tspan><tspan
+           x="23.713726"
+           y="106.9955"
+           id="tspan2492"><tspan
+             style="font-size:7.05556px"
+             id="tspan2490">Charbroiled Pork Vermicellis
+</tspan></tspan><tspan
+           x="23.713726"
+           y="124.63438"
+           id="tspan2496"><tspan
+             style="font-size:7.05556px"
+             id="tspan2494">Charbroiled Chicken
+</tspan></tspan><tspan
+           x="23.713726"
+           y="142.27325"
+           id="tspan2500"><tspan
+             style="font-size:7.05556px"
+             id="tspan2498">Stir Fried Beef Noodle 
+</tspan></tspan><tspan
+           x="23.713726"
+           y="159.91212"
+           id="tspan2504"><tspan
+             style="font-size:7.05556px"
+             id="tspan2502">
+</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:178.18;display:inline;fill:#5e483b;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
+         x="23.713726"
+         y="54.078869"
+         id="text8961-23-6"
+         transform="translate(141.25574,106.20419)"><tspan
+           x="23.713726"
+           y="54.078869"
+           id="tspan2508"><tspan
+             style="font-size:7.05556px"
+             id="tspan2506">13.99
+</tspan></tspan><tspan
+           x="23.713726"
+           y="71.717746"
+           id="tspan2512"><tspan
+             style="font-size:7.05556px"
+             id="tspan2510">13.99
+</tspan></tspan><tspan
+           x="23.713726"
+           y="89.356624"
+           id="tspan2518"><tspan
+             style="font-size:7.05556px"
+             id="tspan2514">13.99</tspan><tspan
+             style="font-size:7.05556px"
+             id="tspan2516">
+</tspan></tspan><tspan
+           x="23.713726"
+           y="106.9955"
+           id="tspan2524"><tspan
+             style="font-size:7.05556px"
+             id="tspan2520">13.99</tspan><tspan
+             style="font-size:7.05556px"
+             id="tspan2522">
+</tspan></tspan><tspan
+           x="23.713726"
+           y="124.63438"
+           id="tspan2528"><tspan
+             style="font-size:7.05556px"
+             id="tspan2526">13.99
+</tspan></tspan><tspan
+           x="23.713726"
+           y="142.27325"
+           id="tspan2532"><tspan
+             style="font-size:7.05556px"
+             id="tspan2530">15.99
+</tspan></tspan><tspan
+           x="23.713726"
+           y="159.91212"
+           id="tspan2536"><tspan
+             style="font-size:7.05556px"
+             id="tspan2534">
+</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:21.1667px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';fill:#fffefe;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
+         x="69.548866"
+         y="147.17842"
+         id="text7309-3-7-4"><tspan
+           sodipodi:role="line"
+           id="tspan7307-2-4-5"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#5e483b;fill-opacity:1;stroke-width:1"
+           x="69.548866"
+           y="147.17842">VERMICELLIS</tspan></text>
+      <rect
+         style="display:inline;fill:#a69384;fill-opacity:1;stroke:none;stroke-width:1.23364;stroke-opacity:1"
+         id="rect9648-1-4"
+         width="75.493172"
+         height="1.0224454"
+         x="18.408689"
+         y="398.86264" />
+      <rect
+         style="display:inline;fill:#a69384;fill-opacity:1;stroke:none;stroke-width:1.19057;stroke-opacity:1"
+         id="rect9648-0-2-4"
+         width="69.120094"
+         height="0.96525359"
+         x="126.71622"
+         y="399.26074" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:178.18;display:inline;fill:#5e483b;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
+         x="23.713726"
+         y="54.078869"
+         id="text8938-4-7"
+         transform="translate(0.36249118,362.61689)"><tspan
+           x="23.713726"
+           y="54.078869"
+           id="tspan2540"><tspan
+             style="font-size:7.05556px"
+             id="tspan2538">Charbroiled Pork Chop         
+</tspan></tspan><tspan
+           x="23.713726"
+           y="71.717746"
+           id="tspan2544"><tspan
+             style="font-size:7.05556px"
+             id="tspan2542">Charbroiled Pork Chop &amp; Baked Egg    
+</tspan></tspan><tspan
+           x="23.713726"
+           y="89.356624"
+           id="tspan2548"><tspan
+             style="font-size:7.05556px"
+             id="tspan2546">Charbroiled Chicken
+</tspan></tspan><tspan
+           x="23.713726"
+           y="106.9955"
+           id="tspan2552"><tspan
+             style="font-size:7.05556px"
+             id="tspan2550">Shaken Beef 
+</tspan></tspan><tspan
+           x="23.713726"
+           y="124.63438"
+           id="tspan2556"><tspan
+             style="font-size:7.05556px"
+             id="tspan2554">Brown Rice
+</tspan></tspan><tspan
+           x="23.713726"
+           y="142.27325"
+           id="tspan2560"><tspan
+             style="font-size:7.05556px"
+             id="tspan2558">
+</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:178.18;display:inline;fill:#5e483b;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
+         x="23.713726"
+         y="54.078869"
+         id="text8961-2-9"
+         transform="translate(142.27821,362.20791)"><tspan
+           x="23.713726"
+           y="54.078869"
+           id="tspan2564"><tspan
+             style="font-size:7.05556px"
+             id="tspan2562">13.99
+</tspan></tspan><tspan
+           x="23.713726"
+           y="71.717746"
+           id="tspan2568"><tspan
+             style="font-size:7.05556px"
+             id="tspan2566">13.99
+</tspan></tspan><tspan
+           x="23.713726"
+           y="89.356624"
+           id="tspan2572"><tspan
+             style="font-size:7.05556px"
+             id="tspan2570">13.99
+</tspan></tspan><tspan
+           x="23.713726"
+           y="106.9955"
+           id="tspan2576"><tspan
+             style="font-size:7.05556px"
+             id="tspan2574">15.99
+</tspan></tspan><tspan
+           x="23.713726"
+           y="124.63438"
+           id="tspan2580"><tspan
+             style="font-size:7.05556px"
+             id="tspan2578">  3.00
+</tspan></tspan><tspan
+           x="23.713726"
+           y="142.27325"
+           id="tspan2584"><tspan
+             style="font-size:7.05556px"
+             id="tspan2582">
+</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:21.1667px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';fill:#fffefe;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
+         x="95.519051"
+         y="402.15967"
+         id="text7309-3-2-3"><tspan
+           sodipodi:role="line"
+           id="tspan7307-2-9-9"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#5e483b;fill-opacity:1;stroke-width:1"
+           x="95.519051"
+           y="402.15967"> RICE</tspan></text>
+    </g>
+    <rect
+       style="display:inline;fill:#a69384;fill-opacity:1;stroke:none;stroke-width:0.977943;stroke-opacity:1"
+       id="rect9648-2"
+       width="47.441563"
+       height="1.0224454"
+       x="15.984802"
+       y="159.85355" />
+    <rect
+       style="display:inline;fill:#a69384;fill-opacity:1;stroke:none;stroke-width:0.977943;stroke-opacity:1"
+       id="rect9648-0-0"
+       width="46.635429"
+       height="0.96525359"
+       x="146.77702"
+       y="160.25166" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:178.18;display:inline;fill:#5e483b;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
+       x="23.713726"
+       y="54.078869"
+       id="text8938-9"
+       transform="translate(-2.0613961,123.60781)"><tspan
+         x="23.713726"
+         y="54.078869"
+         id="tspan2588"><tspan
+           style="font-size:7.05556px"
+           id="tspan2586">Fresh Spring Rolls (2)        
+</tspan></tspan><tspan
+         x="23.713726"
+         y="71.717746"
+         id="tspan2592"><tspan
+           style="font-size:7.05556px"
+           id="tspan2590">Fried Egg Rolls (4)       
+</tspan></tspan><tspan
+         x="23.713726"
+         y="89.356624"
+         id="tspan2596"><tspan
+           style="font-size:7.05556px"
+           id="tspan2594">Fried Chicken Wings
+</tspan></tspan><tspan
+         x="23.713726"
+         y="106.9955"
+         id="tspan2600"><tspan
+           style="font-size:7.05556px"
+           id="tspan2598">Deep Fried Tofu
+</tspan></tspan><tspan
+         x="23.713726"
+         y="124.63438"
+         id="tspan2604"><tspan
+           style="font-size:7.05556px"
+           id="tspan2602">Popcorn Chicken 
+</tspan></tspan><tspan
+         x="23.713726"
+         y="142.27325"
+         id="tspan2608"><tspan
+           style="font-size:7.05556px"
+           id="tspan2606">
+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:178.18;display:inline;fill:#5e483b;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
+       x="23.713726"
+       y="54.078869"
+       id="text8961-23"
+       transform="translate(139.85432,123.19884)"><tspan
+         x="23.713726"
+         y="54.078869"
+         id="tspan2612"><tspan
+           style="font-size:7.05556px"
+           id="tspan2610">  5.50
+</tspan></tspan><tspan
+         x="23.713726"
+         y="71.717746"
+         id="tspan2618"><tspan
+           style="font-size:7.05556px"
+           id="tspan2614">  6.75</tspan><tspan
+           style="font-size:7.05556px"
+           id="tspan2616">
+</tspan></tspan><tspan
+         x="23.713726"
+         y="89.356624"
+         id="tspan2622"><tspan
+           style="font-size:7.05556px"
+           id="tspan2620">10.00
+</tspan></tspan><tspan
+         x="23.713726"
+         y="106.9955"
+         id="tspan2626"><tspan
+           style="font-size:7.05556px"
+           id="tspan2624">10.00
+</tspan></tspan><tspan
+         x="23.713726"
+         y="124.63438"
+         id="tspan2632"><tspan
+           style="font-size:7.05556px"
+           id="tspan2628">  6.00</tspan><tspan
+           style="font-size:7.05556px"
+           id="tspan2630">
+</tspan></tspan><tspan
+         x="23.713726"
+         y="142.27325"
+         id="tspan2636"><tspan
+           style="font-size:7.05556px"
+           id="tspan2634">
+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:21.1667px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';fill:#fffefe;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
+       x="68.556419"
+       y="164.17307"
+       id="text7309-3-7"><tspan
+         sodipodi:role="line"
+         id="tspan7307-2-4"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#5e483b;fill-opacity:1;stroke-width:1"
+         x="68.556419"
+         y="164.17307">STARTERS</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="title-PhoWithMe"
+     style="fill:#6e5a38;fill-opacity:1;stroke:none"
+     transform="translate(0,-22.556962)"
+     sodipodi:insensitive="true">
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:21.1667px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';fill:#6e5a38;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
+       x="53.78968"
+       y="45.403114"
+       id="text6312"><tspan
+         sodipodi:role="line"
+         id="tspan6310"
+         style="fill:#6e5a38;fill-opacity:1;stroke:none;stroke-width:1"
+         x="53.78968"
+         y="45.403114">Pho With Me</tspan></text>
+  </g>
+</svg>
