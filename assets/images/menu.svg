@@ -3,8 +3,8 @@
 
 <svg
    width="210mm"
-   height="618mm"
-   viewBox="0 0 210 618"
+   height="693mm"
+   viewBox="0 0 210 693"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
@@ -25,14 +25,14 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.2938725"
-     inkscape:cx="350.88465"
-     inkscape:cy="-0.38643684"
+     inkscape:cx="351.27109"
+     inkscape:cy="2472.8093"
      inkscape:window-width="2089"
      inkscape:window-height="1230"
-     inkscape:window-x="59"
-     inkscape:window-y="122"
+     inkscape:window-x="486"
+     inkscape:window-y="191"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer3-0" />
   <defs
      id="defs2">
     <rect
@@ -90,24 +90,6 @@
        height="19.665045"
        x="50.319378"
        y="6.0730286" />
-    <path
-       style="fill:#a69384;fill-opacity:1;stroke:none;stroke-width:1.40682;stroke-opacity:1"
-       d="M 7.0594721,750.30414 H 62.212749"
-       id="path9400" />
-    <rect
-       style="fill:#a69384;fill-opacity:1;stroke:none;stroke-width:1.37579;stroke-opacity:1"
-       id="rect9648"
-       width="47.390965"
-       height="2.0257263"
-       x="16.098482"
-       y="749.59503" />
-    <rect
-       style="display:inline;fill:#a69384;fill-opacity:1;stroke:none;stroke-width:1.37579;stroke-opacity:1"
-       id="rect9648-0"
-       width="46.58569"
-       height="1.9124146"
-       x="146.75119"
-       y="750.38379" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -122,39 +104,39 @@
        id="text8718"><tspan
          x="23.713726"
          y="54.078869"
-         id="tspan2362"><tspan
+         id="tspan1718"><tspan
            style="font-size:7.05556px"
-           id="tspan2360">Special Combination Pho
+           id="tspan1716">Special Combination Pho
 </tspan></tspan><tspan
          x="23.713726"
          y="71.717746"
-         id="tspan2366"><tspan
+         id="tspan1722"><tspan
            style="font-size:7.05556px"
-           id="tspan2364">Rare Steak Pho
+           id="tspan1720">Rare Steak Pho
 </tspan></tspan><tspan
          x="23.713726"
          y="89.356624"
-         id="tspan2370"><tspan
+         id="tspan1726"><tspan
            style="font-size:7.05556px"
-           id="tspan2368">Rare Steak &amp; Well Done Flank Pho
+           id="tspan1724">Rare Steak &amp; Well Done Flank Pho
 </tspan></tspan><tspan
          x="23.713726"
          y="106.9955"
-         id="tspan2374"><tspan
+         id="tspan1730"><tspan
            style="font-size:7.05556px"
-           id="tspan2372">Beef Ball Pho
+           id="tspan1728">Beef Ball Pho
 </tspan></tspan><tspan
          x="23.713726"
          y="124.63438"
-         id="tspan2378"><tspan
+         id="tspan1734"><tspan
            style="font-size:7.05556px"
-           id="tspan2376">Shrimp Pho
+           id="tspan1732">Shrimp Pho
 </tspan></tspan><tspan
          x="23.713726"
          y="142.27325"
-         id="tspan2382"><tspan
+         id="tspan1738"><tspan
            style="font-size:7.05556px"
-           id="tspan2380">Plain Pho
+           id="tspan1736">Plain Pho
 </tspan></tspan></text>
     <g
        inkscape:groupmode="layer"
@@ -206,39 +188,6 @@
      inkscape:label="Noodle Soup"
      style="display:inline"
      transform="translate(0.20448948,112.26473)">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:178.18;display:inline;fill:#5e483b;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
-       x="23.713726"
-       y="54.078869"
-       id="text8938"
-       transform="translate(-2.2493844,232.91354)"><tspan
-         x="23.713726"
-         y="54.078869"
-         id="tspan2386"><tspan
-           style="font-size:7.05556px"
-           id="tspan2384">Nam Vang Noodle Soup          
-</tspan></tspan><tspan
-         x="23.713726"
-         y="71.717746"
-         id="tspan2392"><tspan
-           style="font-size:7.05556px"
-           id="tspan2388">Wonton Noodle Soup</tspan><tspan
-           style="font-size:7.05556px"
-           id="tspan2390">       
-</tspan></tspan><tspan
-         x="23.713726"
-         y="89.356624"
-         id="tspan2396"><tspan
-           style="font-size:7.05556px"
-           id="tspan2394">Special Dry Noodle Soup 
-</tspan></tspan><tspan
-         x="23.713726"
-         y="106.9955"
-         id="tspan2400"><tspan
-           style="font-size:7.05556px"
-           id="tspan2398">
-</tspan></tspan></text>
     <g
        inkscape:groupmode="layer"
        id="g8944"
@@ -289,37 +238,6 @@
      inkscape:label="Price"
      style="display:inline"
      transform="translate(21.471397,111.44677)">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:178.18;display:inline;fill:#5e483b;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
-       x="23.713726"
-       y="54.078869"
-       id="text8961"
-       transform="translate(118.39943,233.32252)"><tspan
-         x="23.713726"
-         y="54.078869"
-         id="tspan2404"><tspan
-           style="font-size:7.05556px"
-           id="tspan2402">15.99
-</tspan></tspan><tspan
-         x="23.713726"
-         y="71.717746"
-         id="tspan2408"><tspan
-           style="font-size:7.05556px"
-           id="tspan2406">13.99
-</tspan></tspan><tspan
-         x="23.713726"
-         y="89.356624"
-         id="tspan2412"><tspan
-           style="font-size:7.05556px"
-           id="tspan2410">13.99
-</tspan></tspan><tspan
-         x="23.713726"
-         y="106.9955"
-         id="tspan2416"><tspan
-           style="font-size:7.05556px"
-           id="tspan2414">
-</tspan></tspan></text>
     <g
        inkscape:groupmode="layer"
        id="g8967"
@@ -378,45 +296,45 @@
          transform="translate(118.19493,3.4763215)"><tspan
            x="23.713726"
            y="54.078869"
-           id="tspan2420"><tspan
+           id="tspan1742"><tspan
              style="font-size:7.05556px"
-             id="tspan2418">15.99
+             id="tspan1740">15.99
 </tspan></tspan><tspan
            x="23.713726"
            y="71.717746"
-           id="tspan2424"><tspan
+           id="tspan1746"><tspan
              style="font-size:7.05556px"
-             id="tspan2422">13.99
+             id="tspan1744">13.99
 </tspan></tspan><tspan
            x="23.713726"
            y="89.356624"
-           id="tspan2428"><tspan
+           id="tspan1750"><tspan
              style="font-size:7.05556px"
-             id="tspan2426">13.99
+             id="tspan1748">13.99
 </tspan></tspan><tspan
            x="23.713726"
            y="106.9955"
-           id="tspan2432"><tspan
+           id="tspan1754"><tspan
              style="font-size:7.05556px"
-             id="tspan2430">13.99
+             id="tspan1752">13.99
 </tspan></tspan><tspan
            x="23.713726"
            y="124.63438"
-           id="tspan2436"><tspan
+           id="tspan1758"><tspan
              style="font-size:7.05556px"
-             id="tspan2434">13.99
+             id="tspan1756">13.99
 </tspan></tspan><tspan
            x="23.713726"
            y="142.27325"
-           id="tspan2440"><tspan
+           id="tspan1762"><tspan
              style="font-size:7.05556px"
-             id="tspan2438">  7.00
+             id="tspan1760">  7.00
 </tspan></tspan><tspan
            x="23.713726"
            y="159.91212"
-           id="tspan2444"><tspan
+           id="tspan1766"><tspan
              style="font-size:7.05556px"
-             id="tspan2442">
+             id="tspan1764">
 </tspan></tspan></text>
       <g
          inkscape:groupmode="layer"
@@ -496,17 +414,6 @@
        transform="translate(-1.401434,117.86433)">
       <text
          xml:space="preserve"
-         style="font-weight:bold;font-size:21.1667px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';fill:#fffefe;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
-         x="68.747414"
-         y="268.08368"
-         id="text7309-3"><tspan
-           sodipodi:role="line"
-           id="tspan7307-2"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#5e483b;fill-opacity:1;stroke-width:1"
-           x="68.747414"
-           y="268.08368">NOODLE SOUP</tspan></text>
-      <text
-         xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#5e483b;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
          x="21.400196"
          y="55.814018"
@@ -518,52 +425,52 @@
            y="55.814018" /></text>
       <path
          style="display:inline;fill:#a69384;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
-         d="M 8.5676296,330.26832 H 63.779794"
+         d="M 9.1810985,259.10598 H 64.393263"
          id="path9400-3" />
       <rect
          style="display:inline;fill:#a69384;fill-opacity:1;stroke:none;stroke-width:1.0684;stroke-opacity:1"
          id="rect9648-1"
          width="56.623402"
          height="1.0224454"
-         x="18.638735"
-         y="331.95535" />
+         x="19.252203"
+         y="260.793" />
       <rect
          style="display:inline;fill:#a69384;fill-opacity:1;stroke:none;stroke-width:1.04038;stroke-opacity:1"
          id="rect9648-0-2"
          width="52.780754"
          height="0.96525359"
-         x="143.28561"
-         y="332.35345" />
+         x="143.89908"
+         y="261.1911" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:178.18;display:inline;fill:#5e483b;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
          x="23.713726"
          y="54.078869"
          id="text8938-4"
-         transform="translate(0.59253815,295.70959)"><tspan
+         transform="translate(1.2060066,224.54725)"><tspan
            x="23.713726"
            y="54.078869"
-           id="tspan2448"><tspan
+           id="tspan1770"><tspan
              style="font-size:7.05556px"
-             id="tspan2446">Chicken Friend Rice with Egg         
+             id="tspan1768">Chicken Friend Rice with Egg         
 </tspan></tspan><tspan
            x="23.713726"
            y="71.717746"
-           id="tspan2452"><tspan
+           id="tspan1774"><tspan
              style="font-size:7.05556px"
-             id="tspan2450">Yang Chow Fried Rice     
+             id="tspan1772">Yang Chow Fried Rice     
 </tspan></tspan><tspan
            x="23.713726"
            y="89.356624"
-           id="tspan2456"><tspan
+           id="tspan1778"><tspan
              style="font-size:7.05556px"
-             id="tspan2454">BBQ pork and Shrimp Fried Rice 
+             id="tspan1776">BBQ pork and Shrimp Fried Rice 
 </tspan></tspan><tspan
            x="23.713726"
            y="106.9955"
-           id="tspan2460"><tspan
+           id="tspan1782"><tspan
              style="font-size:7.05556px"
-             id="tspan2458">
+             id="tspan1780">
 </tspan></tspan></text>
       <text
          xml:space="preserve"
@@ -571,47 +478,47 @@
          x="23.713726"
          y="54.078869"
          id="text8961-2"
-         transform="translate(142.50826,295.30061)"><tspan
+         transform="translate(143.12173,224.13827)"><tspan
            x="23.713726"
            y="54.078869"
-           id="tspan2464"><tspan
+           id="tspan1786"><tspan
              style="font-size:7.05556px"
-             id="tspan2462">12.99
+             id="tspan1784">12.99
 </tspan></tspan><tspan
            x="23.713726"
            y="71.717746"
-           id="tspan2468"><tspan
+           id="tspan1790"><tspan
              style="font-size:7.05556px"
-             id="tspan2466">12.99
+             id="tspan1788">12.99
 </tspan></tspan><tspan
            x="23.713726"
            y="89.356624"
-           id="tspan2472"><tspan
+           id="tspan1794"><tspan
              style="font-size:7.05556px"
-             id="tspan2470">14.99
+             id="tspan1792">14.99
 </tspan></tspan><tspan
            x="23.713726"
            y="106.9955"
-           id="tspan2476"><tspan
+           id="tspan1798"><tspan
              style="font-size:7.05556px"
-             id="tspan2474">
+             id="tspan1796">
 </tspan></tspan></text>
       <text
          xml:space="preserve"
          style="font-weight:bold;font-size:21.1667px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';fill:#fffefe;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
-         x="77.958504"
-         y="336.07034"
+         x="78.571976"
+         y="264.90799"
          id="text7309-3-2"><tspan
            sodipodi:role="line"
            id="tspan7307-2-9"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#5e483b;fill-opacity:1;stroke-width:1"
-           x="77.958504"
-           y="336.07034">FRIED RICE</tspan></text>
+           x="78.571976"
+           y="264.90799">FRIED RICE</tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,1.401434,-117.86433)"
          id="text10093"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect10095);fill:#a69384;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-opacity:1" />
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect10095);display:inline;fill:#a69384;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-opacity:1" />
       <rect
          style="display:inline;fill:#a69384;fill-opacity:1;stroke:none;stroke-width:0.977943;stroke-opacity:1"
          id="rect9648-2-3"
@@ -635,45 +542,45 @@
          transform="translate(-0.65996682,106.61316)"><tspan
            x="23.713726"
            y="54.078869"
-           id="tspan2480"><tspan
+           id="tspan1802"><tspan
              style="font-size:7.05556px"
-             id="tspan2478">Charbroiled Pork and Eggrolls
+             id="tspan1800">Charbroiled Pork and Eggrolls
 </tspan></tspan><tspan
            x="23.713726"
            y="71.717746"
-           id="tspan2484"><tspan
+           id="tspan1806"><tspan
              style="font-size:7.05556px"
-             id="tspan2482">Charbroiled Chicken and Eggrolls      
+             id="tspan1804">Charbroiled Chicken and Eggrolls      
 </tspan></tspan><tspan
            x="23.713726"
            y="89.356624"
-           id="tspan2488"><tspan
+           id="tspan1810"><tspan
              style="font-size:7.05556px"
-             id="tspan2486">Veggie Vermicelli with Friend Tofu
+             id="tspan1808">Veggie Vermicelli with Friend Tofu
 </tspan></tspan><tspan
            x="23.713726"
            y="106.9955"
-           id="tspan2492"><tspan
+           id="tspan1814"><tspan
              style="font-size:7.05556px"
-             id="tspan2490">Charbroiled Pork Vermicellis
+             id="tspan1812">Charbroiled Pork Vermicellis
 </tspan></tspan><tspan
            x="23.713726"
            y="124.63438"
-           id="tspan2496"><tspan
+           id="tspan1818"><tspan
              style="font-size:7.05556px"
-             id="tspan2494">Charbroiled Chicken
+             id="tspan1816">Charbroiled Chicken
 </tspan></tspan><tspan
            x="23.713726"
            y="142.27325"
-           id="tspan2500"><tspan
+           id="tspan1822"><tspan
              style="font-size:7.05556px"
-             id="tspan2498">Stir Fried Beef Noodle 
+             id="tspan1820">Stir Fried Beef Noodle 
 </tspan></tspan><tspan
            x="23.713726"
            y="159.91212"
-           id="tspan2504"><tspan
+           id="tspan1826"><tspan
              style="font-size:7.05556px"
-             id="tspan2502">
+             id="tspan1824">
 </tspan></tspan></text>
       <text
          xml:space="preserve"
@@ -684,49 +591,49 @@
          transform="translate(141.25574,106.20419)"><tspan
            x="23.713726"
            y="54.078869"
-           id="tspan2508"><tspan
+           id="tspan1830"><tspan
              style="font-size:7.05556px"
-             id="tspan2506">13.99
+             id="tspan1828">13.99
 </tspan></tspan><tspan
            x="23.713726"
            y="71.717746"
-           id="tspan2512"><tspan
+           id="tspan1834"><tspan
              style="font-size:7.05556px"
-             id="tspan2510">13.99
+             id="tspan1832">13.99
 </tspan></tspan><tspan
            x="23.713726"
            y="89.356624"
-           id="tspan2518"><tspan
+           id="tspan1840"><tspan
              style="font-size:7.05556px"
-             id="tspan2514">13.99</tspan><tspan
+             id="tspan1836">13.99</tspan><tspan
              style="font-size:7.05556px"
-             id="tspan2516">
+             id="tspan1838">
 </tspan></tspan><tspan
            x="23.713726"
            y="106.9955"
-           id="tspan2524"><tspan
+           id="tspan1846"><tspan
              style="font-size:7.05556px"
-             id="tspan2520">13.99</tspan><tspan
+             id="tspan1842">13.99</tspan><tspan
              style="font-size:7.05556px"
-             id="tspan2522">
+             id="tspan1844">
 </tspan></tspan><tspan
            x="23.713726"
            y="124.63438"
-           id="tspan2528"><tspan
+           id="tspan1850"><tspan
              style="font-size:7.05556px"
-             id="tspan2526">13.99
+             id="tspan1848">13.99
 </tspan></tspan><tspan
            x="23.713726"
            y="142.27325"
-           id="tspan2532"><tspan
+           id="tspan1854"><tspan
              style="font-size:7.05556px"
-             id="tspan2530">15.99
+             id="tspan1852">15.99
 </tspan></tspan><tspan
            x="23.713726"
            y="159.91212"
-           id="tspan2536"><tspan
+           id="tspan1858"><tspan
              style="font-size:7.05556px"
-             id="tspan2534">
+             id="tspan1856">
 </tspan></tspan></text>
       <text
          xml:space="preserve"
@@ -744,57 +651,63 @@
          id="rect9648-1-4"
          width="75.493172"
          height="1.0224454"
-         x="18.408689"
-         y="398.86264" />
+         x="19.022158"
+         y="327.70029" />
       <rect
          style="display:inline;fill:#a69384;fill-opacity:1;stroke:none;stroke-width:1.19057;stroke-opacity:1"
          id="rect9648-0-2-4"
          width="69.120094"
          height="0.96525359"
-         x="126.71622"
-         y="399.26074" />
+         x="127.32968"
+         y="328.09839" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:178.18;display:inline;fill:#5e483b;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
          x="23.713726"
          y="54.078869"
          id="text8938-4-7"
-         transform="translate(0.36249118,362.61689)"><tspan
+         transform="translate(0.97595963,291.45455)"><tspan
            x="23.713726"
            y="54.078869"
-           id="tspan2540"><tspan
+           id="tspan1862"><tspan
              style="font-size:7.05556px"
-             id="tspan2538">Charbroiled Pork Chop         
+             id="tspan1860">Charbroiled Pork Chop         
 </tspan></tspan><tspan
            x="23.713726"
            y="71.717746"
-           id="tspan2544"><tspan
+           id="tspan1866"><tspan
              style="font-size:7.05556px"
-             id="tspan2542">Charbroiled Pork Chop &amp; Baked Egg    
+             id="tspan1864">Pan Seared Chicken    
 </tspan></tspan><tspan
            x="23.713726"
            y="89.356624"
-           id="tspan2548"><tspan
+           id="tspan1870"><tspan
              style="font-size:7.05556px"
-             id="tspan2546">Charbroiled Chicken
+             id="tspan1868">Charbroiled Chicken
 </tspan></tspan><tspan
            x="23.713726"
            y="106.9955"
-           id="tspan2552"><tspan
+           id="tspan1874"><tspan
              style="font-size:7.05556px"
-             id="tspan2550">Shaken Beef 
+             id="tspan1872">Shaken Beef 
 </tspan></tspan><tspan
            x="23.713726"
            y="124.63438"
-           id="tspan2556"><tspan
+           id="tspan1878"><tspan
              style="font-size:7.05556px"
-             id="tspan2554">Brown Rice
+             id="tspan1876">Brown Rice
 </tspan></tspan><tspan
            x="23.713726"
            y="142.27325"
-           id="tspan2560"><tspan
+           id="tspan1882"><tspan
              style="font-size:7.05556px"
-             id="tspan2558">
+             id="tspan1880">Egg on the side 
+</tspan></tspan><tspan
+           x="23.713726"
+           y="159.91212"
+           id="tspan1886"><tspan
+             style="font-size:7.05556px"
+             id="tspan1884">
 </tspan></tspan></text>
       <text
          xml:space="preserve"
@@ -802,54 +715,237 @@
          x="23.713726"
          y="54.078869"
          id="text8961-2-9"
-         transform="translate(142.27821,362.20791)"><tspan
+         transform="translate(142.89168,291.04557)"><tspan
            x="23.713726"
            y="54.078869"
-           id="tspan2564"><tspan
+           id="tspan1890"><tspan
              style="font-size:7.05556px"
-             id="tspan2562">13.99
+             id="tspan1888">13.99
 </tspan></tspan><tspan
            x="23.713726"
            y="71.717746"
-           id="tspan2568"><tspan
+           id="tspan1894"><tspan
              style="font-size:7.05556px"
-             id="tspan2566">13.99
+             id="tspan1892">13.99
 </tspan></tspan><tspan
            x="23.713726"
            y="89.356624"
-           id="tspan2572"><tspan
+           id="tspan1898"><tspan
              style="font-size:7.05556px"
-             id="tspan2570">13.99
+             id="tspan1896">13.99
 </tspan></tspan><tspan
            x="23.713726"
            y="106.9955"
-           id="tspan2576"><tspan
+           id="tspan1902"><tspan
              style="font-size:7.05556px"
-             id="tspan2574">15.99
+             id="tspan1900">15.99
 </tspan></tspan><tspan
            x="23.713726"
            y="124.63438"
-           id="tspan2580"><tspan
+           id="tspan1906"><tspan
              style="font-size:7.05556px"
-             id="tspan2578">  3.00
+             id="tspan1904">  3.00
 </tspan></tspan><tspan
            x="23.713726"
            y="142.27325"
-           id="tspan2584"><tspan
+           id="tspan1910"><tspan
              style="font-size:7.05556px"
-             id="tspan2582">
+             id="tspan1908">  1.00
+</tspan></tspan><tspan
+           x="23.713726"
+           y="159.91212"
+           id="tspan1914"><tspan
+             style="font-size:7.05556px"
+             id="tspan1912">
 </tspan></tspan></text>
       <text
          xml:space="preserve"
          style="font-weight:bold;font-size:21.1667px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';fill:#fffefe;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
-         x="95.519051"
-         y="402.15967"
+         x="96.132523"
+         y="330.99731"
          id="text7309-3-2-3"><tspan
            sodipodi:role="line"
            id="tspan7307-2-9-9"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#5e483b;fill-opacity:1;stroke-width:1"
-           x="95.519051"
-           y="402.15967"> RICE</tspan></text>
+           x="96.132523"
+           y="330.99731"> RICE</tspan></text>
+      <rect
+         style="display:inline;fill:#a69384;fill-opacity:1;stroke:none;stroke-width:1.17721;stroke-opacity:1"
+         id="rect9648-1-4-6"
+         width="68.745018"
+         height="1.0224454"
+         x="18.408693"
+         y="443.15079" />
+      <rect
+         style="display:inline;fill:#a69384;fill-opacity:1;stroke:none;stroke-width:1.12539;stroke-opacity:1"
+         id="rect9648-0-2-4-6"
+         width="61.758476"
+         height="0.96525359"
+         x="134.07784"
+         y="443.54889" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:178.18;display:inline;fill:#5e483b;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
+         x="23.713726"
+         y="54.078869"
+         id="text8938-4-7-5"
+         transform="translate(0.9759641,404.45118)"><tspan
+           x="23.713726"
+           y="54.078869"
+           id="tspan1918"><tspan
+             style="font-size:7.05556px"
+             id="tspan1916">Taro Milk Tea
+</tspan></tspan><tspan
+           x="23.713726"
+           y="71.717746"
+           id="tspan1922"><tspan
+             style="font-size:7.05556px"
+             id="tspan1920">Golden Milk Tea
+</tspan></tspan><tspan
+           x="23.713726"
+           y="89.356624"
+           id="tspan1926"><tspan
+             style="font-size:7.05556px"
+             id="tspan1924">Thai Tea
+</tspan></tspan><tspan
+           x="23.713726"
+           y="106.9955"
+           id="tspan1930"><tspan
+             style="font-size:7.05556px"
+             id="tspan1928">Vietnamese Coffee
+</tspan></tspan><tspan
+           x="23.713726"
+           y="124.63438"
+           id="tspan1934"><tspan
+             style="font-size:7.05556px"
+             id="tspan1932">House Coffee
+</tspan></tspan><tspan
+           x="23.713726"
+           y="142.27325"
+           id="tspan1938"><tspan
+             style="font-size:7.05556px"
+             id="tspan1936">Soft Drink Can
+</tspan></tspan><tspan
+           x="23.713726"
+           y="159.91212"
+           id="tspan1942"><tspan
+             style="font-size:7.05556px"
+             id="tspan1940">Soft Fountain Drink (3 refills)  
+</tspan></tspan><tspan
+           x="23.713726"
+           y="177.55099"
+           id="tspan1946"><tspan
+             style="font-size:7.05556px"
+             id="tspan1944">
+</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:178.18;display:inline;fill:#5e483b;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
+         x="23.713726"
+         y="54.078869"
+         id="text8961-2-9-0"
+         transform="translate(143.70965,402.40629)"><tspan
+           x="23.713726"
+           y="54.078869"
+           id="tspan1950"><tspan
+             style="font-size:7.05556px"
+             id="tspan1948">  5.25
+</tspan></tspan><tspan
+           x="23.713726"
+           y="71.717746"
+           id="tspan1954"><tspan
+             style="font-size:7.05556px"
+             id="tspan1952">  5.25
+</tspan></tspan><tspan
+           x="23.713726"
+           y="89.356624"
+           id="tspan1958"><tspan
+             style="font-size:7.05556px"
+             id="tspan1956">  5.25
+</tspan></tspan><tspan
+           x="23.713726"
+           y="106.9955"
+           id="tspan1962"><tspan
+             style="font-size:7.05556px"
+             id="tspan1960">  4.50
+</tspan></tspan><tspan
+           x="23.713726"
+           y="124.63438"
+           id="tspan1966"><tspan
+             style="font-size:7.05556px"
+             id="tspan1964">  5.00
+</tspan></tspan><tspan
+           x="23.713726"
+           y="142.27325"
+           id="tspan1970"><tspan
+             style="font-size:7.05556px"
+             id="tspan1968">  2.00
+</tspan></tspan><tspan
+           x="23.713726"
+           y="159.91212"
+           id="tspan1974"><tspan
+             style="font-size:7.05556px"
+             id="tspan1972">  3.00
+</tspan></tspan><tspan
+           x="23.713726"
+           y="177.55099"
+           id="tspan1978"><tspan
+             style="font-size:7.05556px"
+             id="tspan1976">
+</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:21.1667px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';fill:#fffefe;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
+         x="87.134995"
+         y="447.26575"
+         id="text7309-3-2-3-1"><tspan
+           sodipodi:role="line"
+           id="tspan7307-2-9-9-1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#5e483b;fill-opacity:1;stroke-width:1"
+           x="87.134995"
+           y="447.26575"> DRINKS</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:10.5833px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';fill:#fefae0;stroke-width:1"
+         x="134.52409"
+         y="454.91071"
+         id="text865"><tspan
+           sodipodi:role="line"
+           id="tspan863"
+           style="stroke-width:1"
+           x="134.52409"
+           y="454.91071" /></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:178.18;display:inline;fill:#5e483b;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
+         x="23.713726"
+         y="54.078869"
+         id="text8961-2-9-0-7"
+         transform="translate(117.72613,403.05755)"><tspan
+           x="23.713726"
+           y="54.078869"
+           id="tspan1982"><tspan
+             style="font-size:7.05556px"
+             id="tspan1980">5.00
+</tspan></tspan><tspan
+           x="23.713726"
+           y="71.717746"
+           id="tspan1986"><tspan
+             style="font-size:7.05556px"
+             id="tspan1984">5.00
+</tspan></tspan><tspan
+           x="23.713726"
+           y="89.356624"
+           id="tspan1990"><tspan
+             style="font-size:7.05556px"
+             id="tspan1988">5.00
+</tspan></tspan><tspan
+           x="23.713726"
+           y="106.9955"
+           id="tspan1994"><tspan
+             style="font-size:7.05556px"
+             id="tspan1992">
+</tspan></tspan></text>
     </g>
     <rect
        style="display:inline;fill:#a69384;fill-opacity:1;stroke:none;stroke-width:0.977943;stroke-opacity:1"
@@ -874,39 +970,39 @@
        transform="translate(-2.0613961,123.60781)"><tspan
          x="23.713726"
          y="54.078869"
-         id="tspan2588"><tspan
+         id="tspan1998"><tspan
            style="font-size:7.05556px"
-           id="tspan2586">Fresh Spring Rolls (2)        
+           id="tspan1996">Fresh Spring Rolls (2)        
 </tspan></tspan><tspan
          x="23.713726"
          y="71.717746"
-         id="tspan2592"><tspan
+         id="tspan2002"><tspan
            style="font-size:7.05556px"
-           id="tspan2590">Fried Egg Rolls (4)       
+           id="tspan2000">Fried Egg Rolls (4)       
 </tspan></tspan><tspan
          x="23.713726"
          y="89.356624"
-         id="tspan2596"><tspan
+         id="tspan2006"><tspan
            style="font-size:7.05556px"
-           id="tspan2594">Fried Chicken Wings
+           id="tspan2004">Fried Chicken Wings
 </tspan></tspan><tspan
          x="23.713726"
          y="106.9955"
-         id="tspan2600"><tspan
+         id="tspan2010"><tspan
            style="font-size:7.05556px"
-           id="tspan2598">Deep Fried Tofu
+           id="tspan2008">Deep Fried Tofu
 </tspan></tspan><tspan
          x="23.713726"
          y="124.63438"
-         id="tspan2604"><tspan
+         id="tspan2014"><tspan
            style="font-size:7.05556px"
-           id="tspan2602">Popcorn Chicken 
+           id="tspan2012">Popcorn Chicken 
 </tspan></tspan><tspan
          x="23.713726"
          y="142.27325"
-         id="tspan2608"><tspan
+         id="tspan2018"><tspan
            style="font-size:7.05556px"
-           id="tspan2606">
+           id="tspan2016">
 </tspan></tspan></text>
     <text
        xml:space="preserve"
@@ -917,43 +1013,43 @@
        transform="translate(139.85432,123.19884)"><tspan
          x="23.713726"
          y="54.078869"
-         id="tspan2612"><tspan
+         id="tspan2022"><tspan
            style="font-size:7.05556px"
-           id="tspan2610">  5.50
+           id="tspan2020">  5.50
 </tspan></tspan><tspan
          x="23.713726"
          y="71.717746"
-         id="tspan2618"><tspan
+         id="tspan2028"><tspan
            style="font-size:7.05556px"
-           id="tspan2614">  6.75</tspan><tspan
+           id="tspan2024">  6.75</tspan><tspan
            style="font-size:7.05556px"
-           id="tspan2616">
+           id="tspan2026">
 </tspan></tspan><tspan
          x="23.713726"
          y="89.356624"
-         id="tspan2622"><tspan
+         id="tspan2032"><tspan
            style="font-size:7.05556px"
-           id="tspan2620">10.00
+           id="tspan2030">10.00
 </tspan></tspan><tspan
          x="23.713726"
          y="106.9955"
-         id="tspan2626"><tspan
+         id="tspan2036"><tspan
            style="font-size:7.05556px"
-           id="tspan2624">10.00
+           id="tspan2034">10.00
 </tspan></tspan><tspan
          x="23.713726"
          y="124.63438"
-         id="tspan2632"><tspan
+         id="tspan2042"><tspan
            style="font-size:7.05556px"
-           id="tspan2628">  6.00</tspan><tspan
+           id="tspan2038">  6.00</tspan><tspan
            style="font-size:7.05556px"
-           id="tspan2630">
+           id="tspan2040">
 </tspan></tspan><tspan
          x="23.713726"
          y="142.27325"
-         id="tspan2636"><tspan
+         id="tspan2046"><tspan
            style="font-size:7.05556px"
-           id="tspan2634">
+           id="tspan2044">
 </tspan></tspan></text>
     <text
        xml:space="preserve"
