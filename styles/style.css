@@ -242,7 +242,7 @@ hr {
 }
 
 /*hours and map*/
-@media only screen and (max-width: 1000px) {
+@media (max-width: 1200px) {
 
   #business-hours-container {
     width: 100%;
