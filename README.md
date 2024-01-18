@@ -1,1 +1,1 @@
-![main page](/assets/images/image.pgn)
+![main page](/assets/images/image.png)
