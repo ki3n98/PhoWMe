@@ -9,3 +9,10 @@ body {
 
 }
 
+
+@media only screen and (max-width: 880px) {
+    #menu-food {
+        width: 500px;
+    }
+}
+

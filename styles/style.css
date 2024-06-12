@@ -27,6 +27,10 @@ body{
   color: darkred;
 }
 
+#main_page_button {
+  text-decoration: none;
+}
+
 .business-hours {
   border-radius: 5px;
   padding: 20px;
@@ -77,17 +81,24 @@ body{
 
 #logo-stack{
   display: none;
+  
 }
 
 #logo-title{
-  height: 40px; 
+  height: 43px;
+
 }
 #logo{
-  height: 45px
+  height: 50px;
+  text-decoration: none;
 }
 .PhoWMeLogo {
-  padding-left: 4%;
+  padding-left: 5%;
+  overflow:visible; 
+  padding:none;
+  margin: none;
 }
+
 
 #call>img{
   height: 30px;
@@ -189,14 +200,10 @@ hr {
   }
 
   #logo-title{
-    height: 35px
+    height:33px 
   }
   #logo{
     height: 40px
-  }
-
-  .PhoWMeLogo {
-    padding-left: 5%;
   }
 
   .hamburger{
