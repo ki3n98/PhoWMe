@@ -42,11 +42,21 @@ a {
   width: 100%;
 }
 
+
+#phone_number {
+  color: black;
+  margin-left: 65px;
+
+}
+
 .business-hours h2 {
   text-align: center;
   margin-bottom: 20px;
   color: #333;
+
 }
+
+
 
 .business-hours ul {
   list-style: none;
@@ -278,6 +288,12 @@ hr {
     justify-content: center;
     align-items: center;
 
+  }
+
+  #phone_number {
+    color: black;
+    margin-left: 0px; 
+  
   }
 
 
