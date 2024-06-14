@@ -27,9 +27,6 @@ body{
   color: darkred;
 }
 
-#main_page_button {
-  text-decoration: none;
-}
 
 a {
   text-decoration: none;
@@ -93,17 +90,31 @@ a {
   box-shadow: 0px 0px 9px 3px rgba(0, 0, 0, 0.5);
 }
 
+#main_page_button {
+  text-decoration: none;
+  display: flex;
+}
+
+
 #logo-stack{
   display: none;
   
 }
 
 #logo-title{
-  height: 43px;
+  font-size: 2em;
+  color:#3a474d;
+  margin-top: 10px;
+  margin-bottom: 0px;
+  font-family: "Playwrite VN", cursive;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
 
 }
 #logo{
   height: 50px;
+  margin-top: 10px;
   text-decoration: none;
 }
 .PhoWMeLogo {
@@ -133,11 +144,15 @@ li {
 }
 
 .nav-link {
-  font-family: 'Montserrat', sans-serif;
-  text-decoration: none;
-  font-size: x-large;
-  color: black; 
+  font-family: "Playwrite VN", cursive;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+  color:#3a474d;
   transition: 0.1s ease-in-out;
+  margin-top: 10px;
+
+
 }
 
 .nav-link:hover{
@@ -214,10 +229,12 @@ hr {
   }
 
   #logo-title{
-    height:33px 
+    height:33px;
+    margin-top: 15px;
   }
   #logo{
-    height: 40px
+    height: 55px;
+
   }
 
   .hamburger{
