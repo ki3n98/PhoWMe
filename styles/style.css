@@ -101,14 +101,13 @@ a {
 }
 
 #logo-title{
-  font-size: 2em;
-  color:#3a474d;
-  margin-top: 10px;
+  font-size: 3em;
+  color:#666;
   margin-bottom: 0px;
-  font-family: "Playwrite VN", cursive;
-  font-optical-sizing: auto;
+  font-family: "Playfair Display", serif;
   font-weight: bold;
   font-style: normal;
+  
 
 }
 #logo{
@@ -143,15 +142,13 @@ li {
 }
 
 .nav-link {
-  font-family: "Playwrite VN", cursive;
-  font-optical-sizing: auto;
+  font-family: "Playfair Display", serif;
+  font-size: 1.5em;
   font-weight: normal;
   font-style: normal;
   color:#3a474d;
   transition: 0.1s ease-in-out;
   margin-top: 10px;
-
-
 }
 
 .nav-link:hover{
@@ -229,7 +226,6 @@ hr {
 
   #logo-title{
     height:33px;
-    margin-top: 15px;
   }
   #logo{
     height: 55px;
