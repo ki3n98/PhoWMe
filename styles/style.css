@@ -1,13 +1,13 @@
 
 *{
-  background: #fefae0; 
+  background: #FFF6E0; 
 }
 
 body{
   box-sizing: border-box;
   margin: 0px;
   padding: 0px;
-  background: #fefae0 !important; 
+  background: #FFF6E0 !important; 
 }
 
 .sticky{
@@ -44,6 +44,10 @@ a {
   color: black;
   margin-left: 65px;
 
+}
+
+#p_header {
+  color: red;
 }
 
 .business-hours h2 {
@@ -102,7 +106,7 @@ a {
 
 #logo-title{
   font-size: 3em;
-  color:#666;
+  color:#272829;
   margin-bottom: 0px;
   font-family: "Playfair Display", serif;
   font-weight: bold;
@@ -146,7 +150,7 @@ li {
   font-size: 1.5em;
   font-weight: normal;
   font-style: normal;
-  color:#3a474d;
+  color:#61677A;
   transition: 0.1s ease-in-out;
   margin-top: 10px;
 }
