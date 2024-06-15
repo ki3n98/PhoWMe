@@ -46,8 +46,10 @@ a {
 
 }
 
-#p_header {
-  color: red;
+.custom-color {
+  font-family: "Playfair Display", serif;
+  font-style:normal;
+  color: #272829;
 }
 
 .business-hours h2 {
@@ -109,7 +111,7 @@ a {
   color:#272829;
   margin-bottom: 0px;
   font-family: "Playfair Display", serif;
-  font-weight: bold;
+  font-weight: bolder;
   font-style: normal;
   
 
