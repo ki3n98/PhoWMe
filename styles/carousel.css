@@ -2,7 +2,7 @@
  
 .carousel {
   width: 100vw;
-  height: 85vh;
+  height: 100vh;
   position: relative;
   z-index: 0;
 }

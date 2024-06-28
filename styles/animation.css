@@ -1,0 +1,30 @@
+
+.hidden {
+    opacity: 0;
+    filter:blur(5px);
+    transform: translateX(-50%);
+    transition: all 1.25s;
+    }
+    
+.show {
+    opacity: 1;
+    filter:blur(0);
+    transform:translateX(0);
+    }
+.fade-down {
+    animation: fade-down 0.5s;
+}
+
+@keyframes fade-down {
+    0% {
+        opacity: 0;
+        transform: translateY(30px) scale(1);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0px) scale(1);
+    }
+}
+
+
+
